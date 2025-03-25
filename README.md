@@ -4,14 +4,14 @@ A .NET Core MVC 9 API project implementing the Unit of Work pattern with Entity 
 
 ## Project Overview
 
-This API project demonstrates the implementation of the Unit of Work pattern along with Repository pattern for better separation of concerns and maintainable code structure. The project uses SQL Server as the database and includes Swagger/OpenAPI documentation.
+This API project demonstrates the implementation of the Unit of Work pattern along with Repository pattern for better separation of concerns and maintainable code structure. The project uses SQL Server as the database and includes Scalar/OpenAPI documentation.
 
 ## Technologies Used
 
 - .NET Core MVC 9
 - Entity Framework Core
 - SQL Server
-- Swagger/OpenAPI
+- Scalar/OpenAPI
 - Unit of Work Pattern
 - Repository Pattern
 
@@ -91,7 +91,7 @@ dotnet run
 - RESTful API endpoints for Product and Brand management
 - Unit of Work pattern implementation for transaction management
 - Repository pattern for data access abstraction
-- Swagger/OpenAPI documentation
+- Scalar/OpenAPI documentation
 - Entity Framework Core for database operations
 - Clean architecture principles
 
